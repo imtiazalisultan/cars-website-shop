@@ -1,0 +1,111 @@
+body {
+  background: steelblue;
+  min-width: 320px;
+  /* color: white; */
+}
+
+.card {
+  width: 20rem;
+  --bs-card-border-width: 0px;
+}
+
+.labelModelType {
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5) !important;
+  margin-bottom: 0px;
+}
+
+.labelBodyType {
+  font-size: 17px;
+  color: rgba(0, 0, 0, 0.5) !important;
+  margin-bottom: 0px;
+}
+
+.labelModelName {
+  font-size: 16px;
+  color: black !important;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.card-img {
+  margin-top: 15px !important;
+}
+
+.linkText {
+  font-size: 14px;
+  color: rgb(28, 106, 186);
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.linkImageContainer {
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.linkContainer {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.linkImage {
+  vertical-align: middle;
+}
+
+.link {
+  margin-left: 12px;
+  margin-right: 12px;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+.card-group {
+  width: max-content;
+  margin: auto;
+  /* overflow-x: scroll; */
+  /* overflow: auto; */
+}
+
+/* .groupContainer {
+  width: 95%;
+  margin: 40px 20px 20px 20px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+  overflow-x: hidden;
+} */
+
+.swiper-slide-spec {
+  width: auto !important;
+}
+
+.background-white {
+  background-color: white;
+}
+.swiper-custom-pagination {
+  background-color: white;
+  text-align: center;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.button-container {
+  text-align: right;
+  padding-right: 50px;
+}
+
+.rotate {
+  transform: rotate(180deg);
+}
+
+.desktop-container {
+  background-color: white;
+}
+
+.filter-input {
+  width: 300px;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
