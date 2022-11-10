@@ -1,6 +1,4 @@
-# Volvo Cars (Global Online Digital)
-
-## Front-end coding test (React)
+# Cars Shop 
 
 Our team's designer has come up with a new design to show our latest and greatest recharge cars on the website.
 
